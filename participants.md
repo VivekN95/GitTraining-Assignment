@@ -1,7 +1,1 @@
-participants.md
-Changes into the File on Git hub
-conflict changes
-
-
-File in both repositories
-change in git hub
+Change in local
